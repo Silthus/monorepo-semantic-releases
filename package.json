@@ -17,10 +17,10 @@
     "release": "turbo release --concurrency=1"
   },
   "devDependencies": {
-    "@commitlint/cli": "17.6.1",
-    "@commitlint/config-conventional": "17.6.1",
+    "@commitlint/cli": "17.7.2",
+    "@commitlint/config-conventional": "17.7.0",
     "husky": "8.0.3",
-    "turbo": "1.9.3"
+    "turbo": "1.10.15"
   },
   "packageManager": "yarn@1.22.19"
 }
